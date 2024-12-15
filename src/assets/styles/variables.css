@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Open+Sans:wght@400;700&display=swap');
+
+:root {
+    --primary-color: #f16232;
+    --secondary-color: #226ce0;
+    --text-color: #333333;
+    --background-color: #f9f9f9;
+    --border-color: #e0e0e0;
+    --gray-accent: #989b9e;
+
+    --font-primary: 'Poppins', sans-serif;
+    /* For headings */
+    --font-secondary: 'Open Sans', sans-serif;
+    /* For body text */
+    --font-size-base: 16px;
+    /* Base font size */
+    --font-size-heading: 2rem;
+    /* Heading size */
+    --font-size-subheading: 1.5rem;
+    /* Subheading size */
+    --font-size-small: 0.875rem;
+    /* Small text */
+}
